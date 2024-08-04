@@ -1,0 +1,29 @@
+/* pages/HomePage.module.css */
+
+.home-page {
+    padding: 20px;
+  }
+  
+  .featured-artisans, .cta-section {
+    margin-top: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .featured-artisans {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .cta-section {
+    text-align: center;
+    padding: 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 8px;
+  }
+  

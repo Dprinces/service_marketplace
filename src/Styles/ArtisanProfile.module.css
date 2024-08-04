@@ -1,0 +1,73 @@
+.artisan-profile {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-name {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .profile-skill {
+    font-size: 20px;
+    color: #666;
+    margin: 5px 0;
+  }
+  
+  .profile-contact {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  .profile-address,
+  .profile-description,
+  .profile-social-links,
+  .profile-reviews {
+    margin-bottom: 20px;
+  }
+  
+  .profile-address h2,
+  .profile-description h2,
+  .profile-social-links h2,
+  .profile-reviews h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  
+  .photo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .photo {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  
+  .profile-social-links ul,
+  .profile-reviews ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .profile-social-links li,
+  .profile-reviews li {
+    margin-bottom: 10px;
+  }
+  
+  .review-summary {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  

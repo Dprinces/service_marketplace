@@ -1,0 +1,21 @@
+.error-boundary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8d7da; /* Light red background */
+    color: #721c24; /* Dark red text color */
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .error-boundary h1 {
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  .error-boundary p {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+  }
+  

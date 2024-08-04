@@ -1,0 +1,23 @@
+/* pages/ArtisanDirectoryPage.module.css */
+
+.artisan-directory {
+    padding: 20px;
+  }
+  
+  .artisan-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .artisan-cards p {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  .filter-form {
+    margin-bottom: 20px;
+  }
+  

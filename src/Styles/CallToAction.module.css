@@ -1,0 +1,37 @@
+.cta-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .cta-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button.primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+  }
+  
+  .cta-button.primary:hover {
+    background-color: #0056b3;
+  }
+  
+  .cta-button.secondary {
+    background-color: #6c757d;
+    color: #fff;
+    border: none;
+  }
+  
+  .cta-button.secondary:hover {
+    background-color: #5a6268;
+  }
+  

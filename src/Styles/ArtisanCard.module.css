@@ -1,0 +1,62 @@
+.artisan-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .artisan-card:hover {
+    transform: scale(1.02);
+  }
+  
+  .artisan-avatar {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .avatar-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .artisan-info {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .artisan-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .artisan-skill {
+    font-size: 16px;
+    color: #666;
+    margin: 5px 0;
+  }
+  
+  .artisan-phone {
+    font-size: 14px;
+    color: #999;
+    margin: 5px 0;
+  }
+  
+  .artisan-action {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .view-profile-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .view-profile-link:hover {
+    text-decoration: underline;
+  }
+  

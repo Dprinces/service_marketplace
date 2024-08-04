@@ -1,0 +1,22 @@
+/* App.css */
+
+.app-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    margin-top: auto;
+  }
+  
